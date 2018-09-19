@@ -11,6 +11,8 @@ public class Main{
 		
 		
 		/* --- DECLARATION --- */
+		
+		//une nouvelles ville
 		Ville uneVille;
 		/*int nbHabitant;
 		float uneSuperficie;
