@@ -220,7 +220,48 @@ public class Main{
 			
 		/*Hey, mgl je t'ais ajouté un de ces commentaire du turfu mamen*/
 		
-
+		/*C'est Lolo
+		Je bois de l'Ice Tea quand j'suis fons-dé
+		J'pisse sur le commissariat des condés
+		Ouais, j'reviens dans le bizz, c'est comment?
+		Jeune drogué, passe ta commande
+		J'suis en cavale un peu tout le temps
+		J'vois des albums de merde se vendre
+		Toutes mes putes me demandent "mais c'est qui ta besta?"
+		Des turlutes sur demande, señora que pasa?
+		En bagarre y'a mon sexe en guise de troisième bras
+		Plusieurs sur la bête comme à la corrida
+		J'manie l'chibre comme Zorro
+		Mes pecs dansent le flamenco
+		Lolo l'empereur du sale, dans le deal on m'surnomme Joe La Crapule
+		La came y'en a des kilos
+		Distribuée en traîneau
+		Pour remuer ton cul dans mon clip, faut qu'tu postules
+		Sur le périph' en booster, ça s'amuse, à semer la B.A.C
+		Une vodka Cacolac avec une Bernadette comme Jacques Chirac
+		J'baise aussi les moches
+		Ouais, ouais, j'fais preuve de charité
+		Sur mes couilles, étale noisettes de beurre de karité
+		Trop de rodéo, j'repose les guibolles
+		J'ai pas été à l'école
+		Les flic attaquent avec des sex-toys
+		J'ai appris à lire sur ma GameBoy
+		Si j'connais ta meuf, ça veut dire qu't'es cocu
+		Peau de bébé dans mon slip quand le sexe est tondu
+		Je snap des femmes à poil pour vous donner d'l'actu
+		J'vends des médocs pilés et du plastique fondu
+		Y'a un pack de douze à coté du cadavre dans le coffre
+		Pourquoi t'étais Charlie mais t'étais pas Jean-Pierre Coffe
+		Ça sniffe tellement la coke, mes crottes de nez c'est d'la MD
+		J'déteste juste les keufs, j'aime bien les obèses et les pédés
+		Mamène finira dans le dico'
+		J'ai qu'un reuf, le poto Rico
+		Ça rotte-ca l'argent des clodos
+		C'est moi qu'écrit tous les pornos
+		Cite-moi en contrôle de philo'
+		Toutes les miss grimpent aux rideaux
+		Dans ton cul, j'éteins mes mégots
+		Suce mes s7abs, même s'ils sont pas beaux*/
 	
 			
 	}
